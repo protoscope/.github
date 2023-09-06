@@ -4,9 +4,9 @@ Protscope Labs is an innovation team in the world of technology, dedicated to pu
 
 ## Our Expertise
 
-- **Cyber:** We excel in cyber innovation, ensuring that your digital security is top-notch.
-- **Software:** Our software prototyping skills are second to none, helping you develop cutting-edge applications.
-- **Hardware:** From concept to prototype, we specialize in hardware solutions that redefine possibilities.
+- **Cyber:** We work to research malware and exploit development kits to empower companies with knowledge.
+- **Software:** Our software prototyping skills empower us by helping you develop cutting-edge applications.
+- **Hardware:** From concept to prototype, we work to develop hardware solutions that solve complex problems.
 
 Join us on a journey of innovation!
 
